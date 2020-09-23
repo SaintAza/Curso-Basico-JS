@@ -18,4 +18,4 @@ var resultado = function(user, cpu){
     }
 };
 
-resultado(op1,op3
+resultado(op1,op3);
