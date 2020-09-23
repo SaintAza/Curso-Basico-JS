@@ -16,3 +16,16 @@ for (let i = 0; i < cantidad; i++) { //for para agregar cantidad necesaria
 }
 
 console.table(autos); // imprimimos el arreglo de objetos en forma de tabla
+
+switch (key) {
+    case value:
+        
+        break;
+
+    default:
+        break;
+}
+
+//* ... *//
+
+//
