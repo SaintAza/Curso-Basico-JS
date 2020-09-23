@@ -6,12 +6,13 @@ var edad ;
 edad = '27'
 
 edad
-
+//arrey
 var elementos = ["Computadora, Celular"];
 
+//objeto
 var persona = {
     nombre: "Azahel",
     edad: "27"
-}
+};
 
 persona;
